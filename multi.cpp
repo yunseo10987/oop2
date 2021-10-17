@@ -19,7 +19,7 @@ int main(){
         }
 	for(int i=1; i<= first; i++){
            for(int j=1; j<=second; j++){
-		   cout << result[i][j];
+		   cout << result[i][j] << " ";
            }
 			 cout <<"\n";
          }
